@@ -1,0 +1,44 @@
+main {
+	font-size: 0;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.inner {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+	border: 1px black solid;
+	
+}
+
+.inner1 {
+	background-color: green;
+}
+
+.inner2 {
+	background-color: blue;
+}
+
+.innards {
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	font-size: 0;
+	border: 1px black solid;
+}
+
+.innards1 {
+	background-color: gray;
+
+}
+
+.innards2 {
+	background-color: black;
+
+}
+.innards3 {
+	background-color: orange;
+}
